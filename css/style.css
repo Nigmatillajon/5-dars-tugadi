@@ -1,0 +1,94 @@
+h4 {
+  color: grey;
+}
+.bottom td {
+  text-align: center;
+}
+.bottom {
+  background-color: white;
+}
+.top {
+  background-color: silver;
+  margin: 0px;
+  border-radius: 10px;
+  background-color: white;
+  padding: 0px;
+}
+
+.nash_nomer {
+  font-size: 15px;
+}
+body {
+  padding: 0px;
+}
+#hr_chiziq {
+  border-bottom-style: solid;
+  border-width: 5px;
+  margin-left: 20rem;
+  margin-right: 20rem;
+}
+.comment {
+  margin: 5px 5px 0 5px;
+  padding: 5px;
+  background-color: white;
+  border-radius: 5px;
+}
+.comment h2 {
+  margin: 0;
+}
+.comment p {
+  margin-bottom: 3px;
+}
+
+.toptop {
+  background-color: white;
+}
+.telefon h2 {
+  font-size: 15px;
+  margin: 0;
+}
+.telefon p {
+  font-size: 12px;
+  margin: 0px;
+  color: #ff9846;
+}
+.images1 {
+  margin-left: 20px;
+}
+.telefon {
+  margin-right: 20px;
+}
+#Otziv {
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+.top {
+  background-color: black;
+  color: white;
+  margin-top: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.add-comment {
+  background-color: black;
+  color:white;
+  width: 100%;
+  padding: 7px;
+  border-radius: 5px;
+}
+.button-td {
+  padding: 5px;
+}
+.TEL{
+  margin-top: 5px;
+margin-bottom: 0px;
+}
+.TELTEL{
+  margin-top: 0px;
+margin-bottom: 0px;
+}
+.TELTELTEL{
+margin-top: 5px;
+margin-bottom: 5px;
+}
